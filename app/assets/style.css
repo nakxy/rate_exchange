@@ -1,0 +1,53 @@
+body{
+    width:100%;
+    margin:0px !important;
+    font-family:'Arial'
+}
+
+.header{
+    height:70px;
+    background-color:#1976d2;
+}
+
+.header-button{
+    color:white;
+    font-size:22px;
+    font-weight:500;
+    display:inline-block;
+    padding:22px 25px;
+}
+
+.home-date{
+    margin:50px auto;
+    width:100%;
+    text-align:center;
+    font-size:26px;
+}
+
+.home-buttons{
+    margin:0px auto;
+    width:100%;
+    text-align:center;
+}
+
+.home-submit{
+    margin:10px;
+    background-color:rgb(25, 118, 210);
+}
+
+.home-spacer{
+    margin-top:20px;
+}
+.docs-tabspace{
+    margin-left:50px;
+}
+
+.docs-doublespace{
+    margin-left:100px;
+}
+
+.docs{
+    padding:50px;
+}
+
+
